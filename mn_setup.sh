@@ -31,7 +31,7 @@ purgeOldInstallation() {
     #remove old ufw port allow
     sudo ufw delete allow 5457/tcp > /dev/null 2>&1
     #remove old files
-    if [ -d "~/.tourcore" ]; then
+    if [ -d "~/.tour" ]; then
         sudo rm -rf ~/.tour > /dev/null 2>&1
     fi
     #remove binaries and Tour utilities
