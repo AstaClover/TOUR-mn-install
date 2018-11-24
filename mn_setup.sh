@@ -29,10 +29,10 @@ purgeOldInstallation() {
     #kill wallet daemon
     sudo killall tourd > /dev/null 2>&1
     #remove old ufw port allow
-    sudo ufw delete allow 8093/tcp > /dev/null 2>&1
+    sudo ufw delete allow 5457/tcp > /dev/null 2>&1
     #remove old files
     if [ -d "~/.tourcore" ]; then
-        sudo rm -rf ~/.tourcore > /dev/null 2>&1
+        sudo rm -rf ~/.tour > /dev/null 2>&1
     fi
     #remove binaries and Tour utilities
     cd /usr/local/bin && sudo rm tour-cli tour-tx tourd > /dev/null 2>&1 && cd
