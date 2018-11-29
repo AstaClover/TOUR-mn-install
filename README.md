@@ -132,7 +132,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ## Section D: Preparing the Local wallet
 
 ***Step 1***
-* Download and install the Tour wallet [here](https://github.com/TourcoinGroup/TOUR/releases
+* Download and install the Tour wallet [here](https://github.com/TourcoinGroup/TOUR/releases)
 ***
 
 ***Step 2***
