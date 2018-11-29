@@ -136,7 +136,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***
 
 ***Step 2***
-* Send EXACLY 1,000 TOUR to a receive address within your wallet.
+* Send EXACLY 500 TOUR to a receive address within your wallet.
 ***
 
 ***Step 3***
